@@ -35,6 +35,6 @@ Formulario web desarrollado con HTML, CSS y JavaScript que incluye validación d
 
 ## Integrantes
 
-- Nombre Apellido
-- Nombre Apellido  
-- Nombre Apellido
+- Jose Alvarez 
+- Ignacio de la Vega  
+- Sebastian Alvarez
