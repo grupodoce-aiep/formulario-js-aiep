@@ -3,7 +3,7 @@
 **Actividad Práctica Formativa – Semana 2**  
 Asignatura: Taller de Plataformas Web  
 Institución: AIEP – Universidad Andrés Bello
-
+**Grupo 12**
 ---
 
 ## Descripción
