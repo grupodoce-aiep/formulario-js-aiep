@@ -1,9 +1,8 @@
 # Formulario de Contacto – Taller de Plataformas Web
 
-**Actividad Práctica Formativa – Semana 2**  
+**Actividad Práctica Formativa Grupo 12 – Semana 2**  
 Asignatura: Taller de Plataformas Web  
 Institución: AIEP – Universidad Andrés Bello
-**Grupo 12**
 ---
 
 ## Descripción
