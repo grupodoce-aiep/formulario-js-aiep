@@ -1,2 +1,40 @@
-# formulario-js-aiep
-Actividad Práctica Formativa - Semana 2 - Taller Plataformas Web
+# Formulario de Contacto – Taller de Plataformas Web
+
+**Actividad Práctica Formativa – Semana 2**  
+Asignatura: Taller de Plataformas Web  
+Institución: AIEP – Universidad Andrés Bello
+
+---
+
+## Descripción
+
+Formulario web desarrollado con HTML, CSS y JavaScript que incluye validación de campos, manejo de eventos DOM y simulación de envío mediante promesas.
+
+## Tecnologías utilizadas
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+
+## Funcionalidades
+
+- Validación de campos obligatorios (nombre, correo, mensaje)
+- Validación de formato de correo con API nativa HTML5
+- Eventos DOM: `blur` y `submit`
+- Simulación de envío con `Promise` y espera de 2 segundos
+- Control de errores visible al usuario (éxito y fallo)
+
+## Archivos
+
+| Archivo | Descripción |
+|---|---|
+| `index.html` | Estructura del formulario |
+| `style.css` | Estilos visuales |
+| `script.js` | Lógica de validación y promesa |
+| `Informe_Formulario_JS.docx` | Informe grupal del proyecto |
+
+## Integrantes
+
+- Nombre Apellido
+- Nombre Apellido  
+- Nombre Apellido
