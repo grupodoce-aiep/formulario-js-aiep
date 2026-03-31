@@ -7,7 +7,7 @@ Institución: AIEP – Universidad Andrés Bello
 
 ## Descripción
 
-Formulario web desarrollado con HTML, CSS y JavaScript que incluye validación de campos, manejo de eventos DOM y simulación de envío mediante promesas. Link del dormulario: https://gruposiete-aiep.github.io/formulario-js-aiep/
+Formulario web desarrollado con HTML, CSS y JavaScript que incluye validación de campos, manejo de eventos DOM y simulación de envío mediante promesas. Link del formulario: https://gruposiete-aiep.github.io/formulario-js-aiep/
 
 ## Tecnologías utilizadas
 
